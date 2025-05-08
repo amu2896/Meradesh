@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="476" height="437" viewBox="0 0 476 437">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_184" data-name="Rectangle 184" width="476" height="437" transform="translate(1389 2429)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_14" data-name="Mask Group 14" transform="translate(-1389 -2429)" clip-path="url(#clip-path)">
+    <g id="Untitled-3_copy-01" data-name="Untitled-3 copy-01" transform="translate(1934.376 2152.61) rotate(65)">
+      <path id="Path_126" data-name="Path 126" d="M368.666,428.08,286.317,617.361C157.808,564.1,96.9,416.609,150.16,288.1L339.3,376.731" transform="translate(0.763 64.978)" fill="none" stroke="#fff" stroke-width="1"/>
+      <line id="Line_29" data-name="Line 29" x2="33.186" y2="289.111" transform="translate(376.804 486.094)" fill="none" stroke="#fff" stroke-width="1"/>
+      <line id="Line_30" data-name="Line 30" x1="92.182" y1="48.891" transform="translate(427.743 483.772)" fill="none" stroke="#fff" stroke-width="1"/>
+      <line id="Line_31" data-name="Line 31" x1="11.745" y2="95.05" transform="translate(394.011 289.029)" fill="none" stroke="#fff" stroke-width="1"/>
+      <path id="Path_127" data-name="Path 127" d="M494.475,485.043A160.235,160.235,0,0,1,198.4,400.1c0-88.495,82.759-168.25,181.906-158.69" transform="translate(25.45 47.62)" fill="none" stroke="#fff" stroke-width="1" opacity="0.94"/>
+      <path id="Path_128" data-name="Path 128" d="M601.456,110.4V773.156H128.8V110.4" transform="translate(0 0)" fill="none"/>
+      <path id="Path_129" data-name="Path 129" d="M335.473,438.547h0A68.135,68.135,0,0,1,267.6,370.673h0A68.135,68.135,0,0,1,335.473,302.8h0c37.283,0,67.873,29.088,67.873,67.873h0A68.046,68.046,0,0,1,335.473,438.547Z" transform="translate(50.754 70.353)" stroke="#fff" stroke-width="1"/>
+      <rect id="Rectangle_170" data-name="Rectangle 170" width="15.569" height="15.569" transform="matrix(0.993, 0.117, -0.117, 0.993, 397.12, 280.636)" fill="#fff"/>
+      <rect id="Rectangle_172" data-name="Rectangle 172" width="15.569" height="15.569" transform="matrix(0.071, 0.997, -0.997, 0.071, 414.705, 765.444)" fill="#fff"/>
+      <rect id="Rectangle_173" data-name="Rectangle 173" width="15.569" height="15.569" rx="7" transform="matrix(0.997, -0.071, 0.071, 0.997, 382.937, 600.669)" fill="#fff"/>
+      <rect id="Rectangle_174" data-name="Rectangle 174" width="15.569" height="15.569" transform="translate(283.805 671.933) rotate(26.206)" fill="#fff"/>
+      <rect id="Rectangle_175" data-name="Rectangle 175" width="15.569" height="15.569" transform="translate(230.758 381.596) rotate(26.206)" fill="#fff"/>
+      <circle id="Ellipse_26" data-name="Ellipse 26" cx="4.234" cy="4.234" r="4.234" transform="translate(320.812 591.796)" fill="#fecc2f"/>
+      <line id="Line_32" data-name="Line 32" x1="36.873" y1="56.948" transform="translate(257.582 261.306)" fill="#2d4c37" stroke="#fff" stroke-width="1"/>
+      <circle id="Ellipse_27" data-name="Ellipse 27" cx="4.234" cy="4.234" r="4.234" transform="translate(254.256 258.19)" fill="#ffcc21"/>
+      <circle id="Ellipse_28" data-name="Ellipse 28" cx="4.234" cy="4.234" r="4.234" transform="translate(430.611 483.362)" fill="#fecc2f"/>
+      <rect id="Rectangle_176" data-name="Rectangle 176" width="131.65" height="25.401" transform="translate(388.139 617.88)" fill="none"/>
+      <text id="_x_xnx_xn" data-name="¯x=∑xnx¯=∑xn" transform="matrix(0.438, -0.899, 0.899, 0.438, 162.566, 354.566)" fill="#fff" font-size="19" font-family="Segoe UI"><tspan x="0" y="0">¯x=</tspan><tspan y="0" font-family="Helvetica">∑</tspan><tspan y="0">xnx¯=</tspan><tspan y="0" font-family="Helvetica">∑</tspan><tspan y="0">xn</tspan></text>
+      <text id="_x_xnx_xn-2" data-name="¯x=∑xnx¯=∑xn" transform="matrix(0.438, -0.899, 0.899, 0.438, 472.283, 482.252)" fill="#fff" font-size="23" font-family="Helvetica"><tspan x="0" y="0">¯x=∑xnx¯=∑xn</tspan></text>
+    </g>
+  </g>
+</svg>
